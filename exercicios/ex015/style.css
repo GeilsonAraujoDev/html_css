@@ -1,0 +1,14 @@
+ 
+body { background-color: aqua;
+
+}
+h1{
+    color: blue;
+    background-color: rgb(32, 162, 185);
+}
+h2 {
+    color: rgb(255, 0, 0);
+}
+p{
+    text-align: justify;
+}
