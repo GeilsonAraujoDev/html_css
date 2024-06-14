@@ -1,0 +1,38 @@
+@charset "UTF-8";
+@font-face {
+    font-family: 'Passion';
+    src: url('fontes/Passion One/PassionOne-Bold.ttf') format(truetype);
+    font-weight: normal;
+    font-style: normal;
+}
+ body {
+    margin: 0px;
+ }
+header {
+    font-family: Passion, arial;
+    background-color: black;
+    color: white;
+    text-align: center;
+    height: auto;
+    padding: 30px;
+}
+a {
+    text-decoration: none;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+a:hover {
+    text-decoration: underline;
+}
+
+
+
+
+
+footer {
+    background-color: black;
+    text-align: center;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
